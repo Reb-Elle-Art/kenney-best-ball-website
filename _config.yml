@@ -1,0 +1,54 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Kenney Best Ball
+email: kenneybestball2k@gmail.com
+description: >-
+  An annual charity golf tournament honoring the legacy of William A. Kenney.
+  Join us for a day of golf, family, and giving back to our community.
+
+baseurl: "" # Empty for root-level site (custom domain ready)
+url: "https://kenneybestball.com" # Will use custom domain (or update to your GitHub Pages URL)
+
+# Custom Domain Note:
+# After setting up the custom domain in GitHub Pages settings,
+# create a file named 'CNAME' in the root with: kenneybestball.com
+
+# Tournament Settings
+tournament_year: 2026
+tournament_date: "August 2026 (TBD)"
+tournament_location: "Cape Cod, MA"
+charity_beneficiary: "TBD - 2026 Charity Selection"
+
+# Payment Links (Update these with your Square Payment Links)
+payment_links:
+  golfer: "#" # Square link for individual golfer registration
+  foursome: "#" # Square link for foursome registration
+  lunch: "#" # Square link for lunch-only
+  sponsor: "#" # Square link for hole sponsorship
+  donate: "#" # Square link for general donation
+
+# Social links
+instagram_username: 
+facebook_username:
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -54,7 +54,7 @@ title: Contact
 
         <div class="faq-item">
             <h3>What if I don't have a full foursome?</h3>
-            <p>No problem! You can register as an individual and we'll pair you with other golfers. It's a great way to meet family members you might not know yet!</p>
+            <p>No problem! You can register as an individual and we'll pair you with other golfers. It's a great way to reconnect with old friends!</p>
         </div>
 
         <div class="faq-item">

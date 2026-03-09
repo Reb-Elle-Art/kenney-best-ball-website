@@ -12,8 +12,13 @@ description: >-
   An annual charity golf tournament honoring the legacy of William A. Kenney.
   Join us for a day of golf, family, and giving back to our community.
 
-baseurl: "" # Empty for root-level site (custom domain ready)
-url: "https://kenneybestball.com" # Will use custom domain (or update to your GitHub Pages URL)
+baseurl: "/kenney-best-ball-website" # GitHub Pages repo name
+url: "https://reb-elle-art.github.io" # GitHub Pages URL
+
+# Custom Domain Note:
+# When ready to use kenneybestball.com custom domain:
+# 1. Set baseurl: "" and url: "https://kenneybestball.com"
+# 2. Ensure CNAME file exists with: kenneybestball.com
 
 # Custom Domain Note:
 # After setting up the custom domain in GitHub Pages settings,

@@ -79,29 +79,6 @@ title: About
     </div>
 </section>
 
-<section class="organizers">
-    <div class="wrapper">
-        <h2>Meet the Organizers</h2>
-        <div class="organizer-grid">
-            <div class="organizer">
-                <h3>Elle Mahaney</h3>
-                <p>Digital Operations & Registration</p>
-                <p>William's granddaughter and driving force behind the modern KBB experience.</p>
-            </div>
-            <div class="organizer">
-                <h3>Uncle Rich Kenney</h3>
-                <p>Venue & Family Liaison</p>
-                <p>Handles course booking, trophies, and represents the siblings' input.</p>
-            </div>
-            <div class="organizer">
-                <h3>Uncle Jim Kenney</h3>
-                <p>Raffle Operations</p>
-                <p>Master of the 50/50 raffle and day-of prize coordination.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section class="join-us bg-cream">
     <div class="wrapper text-center">
         <h2>Join Us</h2>

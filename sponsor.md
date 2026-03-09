@@ -26,7 +26,6 @@ title: Sponsor
                 <ul>
                     <li>Recognition on all marketing materials</li>
                     <li>Large sign at registration</li>
-                    <li>4 golfers included</li>
                     <li>Logo on website</li>
                     <li>Thank you in post-tournament communications</li>
                 </ul>

@@ -43,7 +43,7 @@ title: About
 <section class="family-legacy">
     <div class="wrapper">
         <h2>A Family Tradition</h2>
-        <p>Today, Kenney Best Ball is organized by the "2K" generation—William's grandchildren—led by Elle Mahaney, with support from her uncles Rich and Jim Kenney. What began as a simple golf outing has become a cherished tradition that spans four generations of the Kenney family.</p>
+        <p>Today, Kenney Best Ball is organized by the "2K" generation—William's grandchildren— and Rich and Jim Kenney. What began as a simple golf outing has become a cherished tradition that spans four generations of the Kenney family.</p>
         
         <p>The tournament is about more than golf. It's about:</p>
         <ul>
